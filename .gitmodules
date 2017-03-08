@@ -2,3 +2,7 @@
 	path = lib/json
 	url = https://github.com/nlohmann/json.git
 	branch = master
+[submodule "lib/fff"]
+	path = lib/fff
+	url = https://github.com/meekrosoft/fff.git
+	branch = master
