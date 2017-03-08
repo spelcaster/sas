@@ -6,3 +6,7 @@
 	path = lib/fff
 	url = https://github.com/meekrosoft/fff.git
 	branch = master
+[submodule "lib/googletest"]
+	path = lib/googletest
+	url = https://github.com/google/googletest.git
+	branch = master
